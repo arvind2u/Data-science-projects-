@@ -1,5 +1,5 @@
 Anomaly detection in network Logs 
-We have network logs data cotaining different ports, latency and througputs 
+We have network logs data containing different ports, latency and througputs 
 Latency = Time required for packets to reach the destination 
 thorughput = Number of packets sent in specific time 
 with the help of this data we can detect the anomalies in network 
