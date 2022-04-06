@@ -1,0 +1,5 @@
+From social medial ads people are buying different products. we have social medial ads data containing the different age group 
+with their salaries . we develope the model which helps whether customer buying or not. 
+
+Model implementation = using SVM(Support vector machine)
+deployment = Flask 
