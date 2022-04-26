@@ -1,7 +1,7 @@
 # Data-science-projects-
 Here you will find data science projects ....
 
-Some of MY Reseaech links 
+ #Reseaech
 
 [ResearchGate](https://www.researchgate.net/profile/Arvind-Thorat-2)
 
